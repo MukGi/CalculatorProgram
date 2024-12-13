@@ -9,6 +9,8 @@ function calculate(){
     } catch (error) {
         result.value  =  "Error"
     }
+    
+
 }
 
 function clearResult(){
